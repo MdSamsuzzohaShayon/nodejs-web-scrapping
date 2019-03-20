@@ -6,7 +6,7 @@
 
  - inspect -> network -> directory_items 
  ![Network](img/screenshot_1.png)
- ![Preview](img/screenshot_1.png)
+ ![Preview](img/screenshot_2.png)
 
 ## Cheerio
 
