@@ -1,8 +1,8 @@
 ## Web Scraping With Node.js & Cheerio
 
-[tutorial](https://www.youtube.com/watch?v=LoziivfAAjE&t=179s)
+[tutorial](https://www.youtube.com/watch?v=eUYMiztBEdY)
 
-[website we are scrapping from](https://www.simple.com/blog)
+[website we are scrapping from](https://www.freecodecamp.org/forum/c/javascript)
 
 ## Cheerio
 
