@@ -1,17 +1,8 @@
-## Web Scraping With Node.js & Cheerio
+// https://ourcodeworld.com/articles/read/1039/how-to-clone-a-website-download-html-css-javascript-fonts-and-images-using-website-scraper-in-node-js
+// npm install website-scraper website-scraper-puppeteer
 
-[tutorial](https://ourcodeworld.com/articles/read/1039/how-to-clone-a-website-download-html-css-javascript-fonts-and-images-using-website-scraper-in-node-js)
 
- - Install essential package 
- 
- ```
- npm install website-scraper website-scraper-puppeteer
- ```
-
- - Index.js code
-
- ```
- // index.js
+// index.js
 const scrape = require('website-scraper');
 const PuppeteerPlugin = require('website-scraper-puppeteer');
 const path = require('path');
@@ -37,6 +28,4 @@ scrape({
         })
     ]
 });
- ``` 
-
 
